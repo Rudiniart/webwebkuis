@@ -1,0 +1,102 @@
+[
+  {
+    "Soal": "What does HTML stand for?",
+    "Pilihan": [
+      "Hyper Text Preprocessor",
+      "Hyper Text Markup Language",
+      "Hyper Text Multiple Language",
+      "Hyper Tool Multi Language"
+    ],
+    "Jawaban": "Hyper Text Markup Language"
+  },
+  {
+    "Soal": "CSS digunakan untuk ...",
+    "Pilihan": [
+      "Menata tampilan halaman web",
+      "Mengolah database",
+      "Menangani request server",
+      "Membuat algoritma"
+    ],
+    "Jawaban": "Menata tampilan halaman web"
+  },
+  {
+  "Soal": "Fungsi dari tag <form> dalam HTML adalah untuk ...",
+  "Pilihan": [
+      "menampilkan gambar",
+      "Mengelompokkan teks",
+      "Membuat daftar",
+      "Mengirim data ke server"
+    ],
+    "Jawaban": "Mengirim data ke server"
+  },
+  {
+  "Soal": "Di JavaScript, perintah untuk menampilkan pesan di kotak dialog adalah ...",
+  "Pilihan": [
+          "print()",
+          "console.log()",
+          "alert()",
+          "msg()"
+      ],
+      "Jawaban": "alert()"    
+  },
+  {
+  "Soal": "Atribut HTML yang digunakan untuk menyisipkan gambar adalah ...",
+  "Pilihan": [
+           "href",
+           "src",
+           "alt",
+           "link"
+      ],
+      "Jawaban": "src"
+  },
+  {
+  "Soal": "Tag HTML <table> digunakan untuk ...",
+  "Pilihan": [
+          "Membuat tombol",
+          "Menampilkan gambar",
+          "Membuat daftar",
+          "Menyusun data dalam baris dan kolom"
+      ],
+      "Jawaban": "Menyusun data dalam baris dan kolom"
+  },
+  {
+  "Soal": "Selector CSS untuk memilih semua elemen dengan class 'menu' adalah ...",
+  "Pilihan": [
+          "#menu",
+          ".menu",
+          "menu",
+          "*menu"
+      ],
+      "Jawaban": ".menu"
+  },
+  {
+  "Soal": "Apa output dari console.log(typeof 42); dalam JavaScript?",
+  "Pilihan": [
+          "string",
+          "number",
+          "boolean",
+          "object"
+      ],
+      "Jawaban": "number"
+  },
+  {
+  "Soal": "Properti CSS display: flex; digunakan untuk",
+  "Pilihan": [
+          "Menyembunyikan elemen",
+          "Mengatur layout responsif",
+          "Mengubah warna latar",
+          "Menambahkan margin"
+      ],
+      "Jawaban": "Mengatur layout elemen"
+  },
+  {
+  "Soal": "Di HTML, elemen <input type='checkbox'> digunakan untuk",
+  "Pilihan": [
+          "Input teks",
+          "Tombol submit",
+          "Pilihan ganda",
+          "Upload file"
+      ],
+      "Jawaban": "Pilihan ganda"
+  }    
+]
