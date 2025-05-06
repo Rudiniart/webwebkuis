@@ -1,0 +1,45 @@
+body {
+  background-color: #f2f6ff;
+  font-family: "Segoe UI", sans-serif;
+}
+
+.quiz-container {
+  width: 500px;
+  background: white;
+}
+
+.option-btn {
+  width: 100%;
+  text-align: left;
+  margin-bottom: 10px;
+}
+
+.option-btn.correct {
+  background-color: #d4edda;
+  border: 1px solid #28a745;
+}
+
+.option-btn.wrong {
+  background-color: #f8d7da;
+  border: 1px solid #dc3545;
+}
+
+.option-btn.disabled {
+  pointer-events: none;
+  opacity: 0.8;
+}
+@media (max-width: 600px) {
+  .quiz-container {
+    width: 90%;
+    padding: 20px;
+  }
+
+  h5 {
+    font-size: 1.2rem;
+  }
+
+  #btn-next {
+    width: 100%;
+    margin-top: 10px;
+  }
+}
